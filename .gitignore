@@ -1,0 +1,13 @@
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local notes and test output
+*.log
+reports/
+
+# Local assistant settings (kept out of the repo)
+CLAUDE.md
+.claude/
