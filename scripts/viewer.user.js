@@ -5,6 +5,8 @@
 // @match        https://abema.tv/*
 // @grant        none
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/TDMulholl/sumo-sync/main/scripts/viewer.user.js
+// @downloadURL  https://raw.githubusercontent.com/TDMulholl/sumo-sync/main/scripts/viewer.user.js
 // ==/UserScript==
 
 (function () {
